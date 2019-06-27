@@ -12,7 +12,7 @@ This project may help you to convert any temperature form any system to another
 .Net Framework 4.6.1
 
 ## Licence
-Read more in Licence.md
+Read more in Licence file
 
 ## Author
 Inix
