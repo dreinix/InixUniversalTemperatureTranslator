@@ -54,6 +54,12 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InversalTranslatorTemp\InversalTranslatorTemp.csproj">
+      <Project>{6FBA4B3C-18BB-4267-B587-ADFBC63F1FAE}</Project>
+      <Name>InversalTranslatorTemp</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

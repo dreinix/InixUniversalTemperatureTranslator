@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Tendencias\Lab\FinalProject\InixUniversalTemperatureTranslator\InversalTranslatorTemp\InversalTranslatorTemp\bin\Debug\InversalTranslatorTemp.exe.config
+C:\Users\USER\Desktop\Tendencias\Lab\FinalProject\InixUniversalTemperatureTranslator\InversalTranslatorTemp\InversalTranslatorTemp\bin\Debug\InversalTranslatorTemp.exe
+C:\Users\USER\Desktop\Tendencias\Lab\FinalProject\InixUniversalTemperatureTranslator\InversalTranslatorTemp\InversalTranslatorTemp\bin\Debug\InversalTranslatorTemp.pdb
+C:\Users\USER\Desktop\Tendencias\Lab\FinalProject\InixUniversalTemperatureTranslator\InversalTranslatorTemp\InversalTranslatorTemp\obj\Debug\InversalTranslatorTemp.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tendencias\Lab\FinalProject\InixUniversalTemperatureTranslator\InversalTranslatorTemp\InversalTranslatorTemp\obj\Debug\InversalTranslatorTemp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tendencias\Lab\FinalProject\InixUniversalTemperatureTranslator\InversalTranslatorTemp\InversalTranslatorTemp\obj\Debug\InversalTranslatorTemp.exe
+C:\Users\USER\Desktop\Tendencias\Lab\FinalProject\InixUniversalTemperatureTranslator\InversalTranslatorTemp\InversalTranslatorTemp\obj\Debug\InversalTranslatorTemp.pdb

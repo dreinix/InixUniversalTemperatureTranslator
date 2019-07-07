@@ -1,0 +1,8 @@
+Temp	GradeO	GradeD
+85	c	F
+200	k	c
+96	f	c
+79	c	K
+85	c	c
+16	K	K
+12	F	F		
