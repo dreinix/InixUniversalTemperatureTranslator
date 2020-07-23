@@ -15,7 +15,7 @@ namespace InversalTranslatorTemp
             
             Console.WriteLine("Conversion terminada \n Ingrese la ruta donde desea guardar el archivo");
             Path = Console.ReadLine();
-            Path += "\\TemperaturesOutput.txt";
+            Path += @"\TemperaturesOutput.txt";
             if (File.Exists(Path))
             {
                 Console.WriteLine("Ya existe el archivo en esta ruta, desea sobre escrbirlo? [S/N]");

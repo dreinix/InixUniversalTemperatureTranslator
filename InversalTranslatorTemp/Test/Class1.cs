@@ -7,7 +7,7 @@ namespace Test
 {   
     [TestFixture]
     public class Class1
-    {
+    {   //this is a comment
         [Test]
         public void TestNoFile()
         {
